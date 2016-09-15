@@ -21,8 +21,8 @@
 
 ## Results
 
-main.ipynb
-1.png
-2.png
+- main.ipynb
+- 1.png
+- 2.png
 
 ## Comments
